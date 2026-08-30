@@ -1,0 +1,11 @@
+LO MEJOR DE TODO — VERSIÓN LIVIANA
+
+1. En GitHub, conserva el repositorio lo-mejor-de-todo.
+2. Sube index.html.
+3. Sube también la carpeta completa llamada fotos.
+4. Ambos deben quedar en la raíz del repositorio:
+   /index.html
+   /fotos/...
+5. No cambies los nombres de las fotos.
+
+El index ya apunta a estas fotos externas, por eso ahora pesa muy poco.
